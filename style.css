@@ -1,0 +1,57 @@
+body{
+    background-color: rgba(255, 199, 95, 0.671);
+    color: rgb(212, 118, 10);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:16px
+}
+/*CENTRALIZAR*/
+h1{
+    text-align:center;
+}
+/* PROPRIEDADE*/
+p{
+   font-weight: bold;
+   text-decoration: underline;
+}
+/* TIRAR SUBLINHADO*/
+u{
+    text-decoration: none;
+}
+   /*MARCA TEXTO*/ 
+mark{
+    background-color: blue;
+}
+/*TAMANHO DA BORDA*/
+img{
+    border-radius: 50px;
+}
+/*ESTILIZAÇÃO DO BOTÃO*/
+button{
+    background-color: blue
+    color(white);
+    border-radius: 12px;
+}
+/*PROPRIEDADE BOTÃO*/
+button:hover{
+   background-color: aqua;
+   cursor: pointer;
+}
+/*TIRAR TALCOISA*/
+a{
+    text-decoration: none;
+    background-color: (23.31% 64.07 -86.64);
+    color: blue;
+}
+/*LINHA DE FUNDOO*/
+.tittle.one{
+    text-align: center;
+    background-color: aqua;
+}
+/*IMAGEM SOLO*/
+#image-one{
+    margin-top: 20px;
+    height: 1060;}
+    
+#image-duo{
+    height: 300px;
+}
